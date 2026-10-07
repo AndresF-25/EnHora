@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EnHora</string>
+    <string name="widget_description">Tus recordatorios pendientes de hoy</string>
+</resources>
